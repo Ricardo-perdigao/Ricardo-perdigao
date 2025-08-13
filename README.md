@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Ricardo de Carles Perdigão
 
-<!--
-**Ricardo-perdigao/Ricardo-perdigao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu repositório pessoal no GitHub! Aqui você encontrará uma coleção dos meus projetos, estudos, experimentos e contribuições em diversas áreas da tecnologia.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Sobre mim
+
+Sou um estudante de Análise e Desenvolvimento de Sistemas pela SPTECH
+Apaixonado por Cozinhar, desenvolvimento de software e aprendizado contínuo
+Fun Fact: tenho um curso de salva vidas, mas não sei nadar
+
+# 💼 Áreas de interesse:
+
+- Desenvolvimento Web
+- APIs e Microsserviços
+- Inteligência Artificial / Machine Learning
+- DevOps e automações
+- Open Source
+
